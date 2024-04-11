@@ -1,0 +1,17 @@
+
+.card{
+    /* padding-top: 5rem; */
+    font-family: 'Poppins', sans-serif;
+    margin: 2rem;
+    color: white;
+    background-image: linear-gradient(135deg , grey,rgb(161, 111, 111),rgb(93, 93, 168));
+}
+.card-title{
+    padding: 7px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.card-body{
+    text-align: center;
+}
